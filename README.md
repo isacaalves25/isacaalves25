@@ -1,31 +1,38 @@
 
-# Hi! I'm Isabelle Alves👋🐦‍⬛☕
+# Olá, eu sou a Isabelle Alves! 👋
 
-I'm a **Mechatronics Engineering** student at UFRN in Brazil and a technology enthusiast. I enjoy understanding how things work from end to end, from the hardware base to the software interface, and I'm currently focusing my career on **Web Development (Front-end and Back-end)**.
+Sou graduanda em **Engenharia Mecatrônica** pela Universidade Federal do Rio Grande do Norte (UFRN). Desenvolvo soluções que integram hardware e software, com foco em robótica, sistemas embarcados e engenharia aeroespacial.
 
-### 👩‍💻 About Me ==
-* 🎓 Undergraduate student in Mechatronics Engineering at UFRN (Natal/RN).
-* 💻 Studying and developing Full-Stack projects, combining the analytical logic of engineering with the construction of web applications.
-* 🚀 Always seeking to evolve, dividing my studies between the classroom and self-taught projects.
-* ♟️ Outside of coding, I enjoy exercising logic by playing cards and Sudoku, reading fantasy and sci-fi books, and listening to a wide variety of musical styles, such as classic rock, indie pop, samba and R&B.
+### 🚀 Atuação e Projetos
+* 🛠️ **LARS (Laboratório de Robótica e Sistemas - UFRN):** Atualmente desenvolvendo o firmware e sistemas de controle para um **Hovercraft Autônomo**.
+* ✈️ **Sistemas Aeroespaciais:** Interesse em simulação de voo e sistemas de controle embarcados (ESP32/Arduino).
+* 💻 **Software Development:** Aprimorando competências em Full-Stack Web e desenvolvimento de simulações em **Unity com C#**.
+* 🧪 **Experiência Anterior:** Ex-bolsista de pesquisa no **Instituto Santos Dumont (ISD)**, atuando em projetos de neuromodulação.
 
-### 🛠️ Technologies and Tools ==
-* **Front-end:**  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* **Back-end & Logic:** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Toolbox Técnica
+* **Embedded:** Arduino, ESP32, C/C++, Sensores e Atuadores.
+* **Software:** Python (Lógica e Scripts), C# (Unity), HTML/CSS.
+* **Ferramentas:** Git/GitHub (Versionamento e Documentação), Cinemachine.
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 📈 What I'm learning now ==
-Currently, my main focus is to deepen my knowledge of HTML, CSS3, JavaScript, Python, and C++, and to build practical projects to consolidate this foundation.
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-### 📫 How to find me ==
-* **LinkedIn:** https://www.linkedin.com/in/isabelle-cavalcante-3791b62a8/
-* **Email:** isacavalcantealves@gmail.com
+![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🎯 Objetivos
+Busco aplicar conhecimentos de automação e controle em desafios reais de engenharia, priorizando sempre a organização de código e documentação técnica.
+
+### 🌌 Inspirações
+* Grande entusiasta de **Ficção Científica (Livros e Filmes)**, o que alimenta minha curiosidade sobre o futuro da robótica e da exploração espacial.
 
 ---
+📫 **Como me encontrar:**
 
-⭐️ *Thank you for visiting my profile! Feel free to explore my repositories.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/isabelle-alves-3791b62a8/
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] isabelle.cavalcante.086@ufrn.edu.br
